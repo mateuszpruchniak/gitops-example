@@ -4,3 +4,4 @@ namespace: redis
 resources:
   - namespace.yaml
   - redis-leader-deployment.yaml
+  - redis-leader-service.yaml
