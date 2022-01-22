@@ -1,5 +1,5 @@
 # SOURCE: https://cloud.google.com/kubernetes-engine/docs/tutorials/guestbook
-apiVersion: v1
+apiVersion: apps/v1
 kind: Deployment
 metadata:
   name: redis-leader
