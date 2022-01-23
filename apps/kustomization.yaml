@@ -4,5 +4,4 @@ namespace: guestbook
 namePrefix: kustomize-
 resources:
 - namespace.yaml
-- guestbook-ui-deployment.yaml
-- guestbook-ui-svc.yaml
+- frontend-deployment.yaml
